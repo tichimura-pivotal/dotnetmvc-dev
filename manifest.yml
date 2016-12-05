@@ -1,0 +1,5 @@
+---
+applications:
+- name: dotnetmvc-test
+  buildpack: dotnet_core_buildpack
+  random-route: true
